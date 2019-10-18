@@ -1,0 +1,17 @@
+C:\Users\10167\source\repos\WpfCefBrowserDemo\WpfCefBrowserDemo\obj\Debug\App.g.cs
+C:\Users\10167\source\repos\WpfCefBrowserDemo\WpfCefBrowserDemo\obj\Debug\WpfCefBrowserDemo_MarkupCompile.cache
+C:\Users\10167\source\repos\WpfCefBrowserDemo\WpfCefBrowserDemo\obj\Debug\MainWindow.g.cs
+C:\Users\10167\source\repos\WpfCefBrowserDemo\WpfCefBrowserDemo\obj\Debug\WpfCefBrowserDemo_MarkupCompile.lref
+C:\Users\10167\source\repos\WpfCefBrowserDemo\WpfCefBrowserDemo\bin\Debug\WpfCefBrowserDemo.exe.config
+C:\Users\10167\source\repos\WpfCefBrowserDemo\WpfCefBrowserDemo\bin\Debug\WpfCefBrowserDemo.exe
+C:\Users\10167\source\repos\WpfCefBrowserDemo\WpfCefBrowserDemo\bin\Debug\WpfCefBrowserDemo.pdb
+C:\Users\10167\source\repos\WpfCefBrowserDemo\WpfCefBrowserDemo\obj\Debug\MainWindow.baml
+C:\Users\10167\source\repos\WpfCefBrowserDemo\WpfCefBrowserDemo\obj\Debug\WpfCefBrowserDemo.g.resources
+C:\Users\10167\source\repos\WpfCefBrowserDemo\WpfCefBrowserDemo\obj\Debug\WpfCefBrowserDemo.Properties.Resources.resources
+C:\Users\10167\source\repos\WpfCefBrowserDemo\WpfCefBrowserDemo\obj\Debug\WpfCefBrowserDemo.csproj.GenerateResource.cache
+C:\Users\10167\source\repos\WpfCefBrowserDemo\WpfCefBrowserDemo\obj\Debug\WpfCefBrowserDemo.csproj.CoreCompileInputs.cache
+C:\Users\10167\source\repos\WpfCefBrowserDemo\WpfCefBrowserDemo\obj\Debug\WpfCefBrowserDemo.csproj.CopyComplete
+C:\Users\10167\source\repos\WpfCefBrowserDemo\WpfCefBrowserDemo\obj\Debug\WpfCefBrowserDemo.exe
+C:\Users\10167\source\repos\WpfCefBrowserDemo\WpfCefBrowserDemo\obj\Debug\WpfCefBrowserDemo.pdb
+C:\Users\10167\source\repos\WpfCefBrowserDemo\WpfCefBrowserDemo\obj\Debug\WpfCefBrowserDemo.csprojAssemblyReference.cache
+C:\Users\10167\source\repos\WpfCefBrowserDemo\WpfCefBrowserDemo\obj\Debug\GeneratedInternalTypeHelper.g.cs

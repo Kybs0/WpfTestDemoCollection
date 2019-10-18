@@ -1,0 +1,14 @@
+C:\Users\10167\source\repos\En5MouyouResourceDownloadTest\En5MouyouResourceDownloadTest\obj\Debug\MainWindow.g.cs
+C:\Users\10167\source\repos\En5MouyouResourceDownloadTest\En5MouyouResourceDownloadTest\obj\Debug\App.g.cs
+C:\Users\10167\source\repos\En5MouyouResourceDownloadTest\En5MouyouResourceDownloadTest\obj\Debug\En5MouyouResourceDownloadTest_MarkupCompile.cache
+C:\Users\10167\source\repos\En5MouyouResourceDownloadTest\En5MouyouResourceDownloadTest\obj\Debug\En5MouyouResourceDownloadTest_MarkupCompile.lref
+C:\Users\10167\source\repos\En5MouyouResourceDownloadTest\En5MouyouResourceDownloadTest\bin\Debug\En5MouyouResourceDownloadTest.exe.config
+C:\Users\10167\source\repos\En5MouyouResourceDownloadTest\En5MouyouResourceDownloadTest\bin\Debug\En5MouyouResourceDownloadTest.exe
+C:\Users\10167\source\repos\En5MouyouResourceDownloadTest\En5MouyouResourceDownloadTest\bin\Debug\En5MouyouResourceDownloadTest.pdb
+C:\Users\10167\source\repos\En5MouyouResourceDownloadTest\En5MouyouResourceDownloadTest\obj\Debug\MainWindow.baml
+C:\Users\10167\source\repos\En5MouyouResourceDownloadTest\En5MouyouResourceDownloadTest\obj\Debug\En5MouyouResourceDownloadTest.g.resources
+C:\Users\10167\source\repos\En5MouyouResourceDownloadTest\En5MouyouResourceDownloadTest\obj\Debug\En5MouyouResourceDownloadTest.Properties.Resources.resources
+C:\Users\10167\source\repos\En5MouyouResourceDownloadTest\En5MouyouResourceDownloadTest\obj\Debug\En5MouyouResourceDownloadTest.csproj.GenerateResource.cache
+C:\Users\10167\source\repos\En5MouyouResourceDownloadTest\En5MouyouResourceDownloadTest\obj\Debug\En5MouyouResourceDownloadTest.csproj.CoreCompileInputs.cache
+C:\Users\10167\source\repos\En5MouyouResourceDownloadTest\En5MouyouResourceDownloadTest\obj\Debug\En5MouyouResourceDownloadTest.exe
+C:\Users\10167\source\repos\En5MouyouResourceDownloadTest\En5MouyouResourceDownloadTest\obj\Debug\En5MouyouResourceDownloadTest.pdb

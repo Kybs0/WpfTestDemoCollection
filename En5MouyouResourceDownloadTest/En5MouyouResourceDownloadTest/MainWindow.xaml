@@ -1,0 +1,23 @@
+﻿<Window x:Class="En5MouyouResourceDownloadTest.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:En5MouyouResourceDownloadTest"
+        mc:Ignorable="d"
+        Title="萌友资源下载测试" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin="0 20 0 0">
+            <TextBlock Text="资源下载路径：" VerticalAlignment="Center"></TextBlock>
+            <TextBox x:Name="DownloadUrlTextBox" Width="400" VerticalAlignment="Center" Padding="6,4"/>
+        </StackPanel>
+        <Button Grid.Row="1" Content="下载" x:Name="DownloadButton" Click="DownloadButton_OnClick" Margin="0 20 0 0" VerticalAlignment="Center" 
+                Padding="10,4" HorizontalAlignment="Center" Width="100"></Button>
+        <TextBox x:Name="DownloadLogTextBox" Grid.Row="2" Padding="6,4" Margin="0 20 0 0" AcceptsReturn="True" TextWrapping="Wrap"/>
+    </Grid>
+</Window>
