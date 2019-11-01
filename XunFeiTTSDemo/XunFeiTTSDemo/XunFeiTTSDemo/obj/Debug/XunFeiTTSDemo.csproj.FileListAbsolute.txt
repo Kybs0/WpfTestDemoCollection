@@ -1,0 +1,17 @@
+F:\Github-Myself\WpfTestDemoCollection\XunFeiTTSDemo\XunFeiTTSDemo\XunFeiTTSDemo\bin\Debug\XunFeiTTSDemo.exe.config
+F:\Github-Myself\WpfTestDemoCollection\XunFeiTTSDemo\XunFeiTTSDemo\XunFeiTTSDemo\bin\Debug\XunFeiTTSDemo.exe
+F:\Github-Myself\WpfTestDemoCollection\XunFeiTTSDemo\XunFeiTTSDemo\XunFeiTTSDemo\bin\Debug\XunFeiTTSDemo.pdb
+F:\Github-Myself\WpfTestDemoCollection\XunFeiTTSDemo\XunFeiTTSDemo\XunFeiTTSDemo\bin\Debug\TTS.dll
+F:\Github-Myself\WpfTestDemoCollection\XunFeiTTSDemo\XunFeiTTSDemo\XunFeiTTSDemo\obj\Debug\XunFeiTTSDemo.csprojAssemblyReference.cache
+F:\Github-Myself\WpfTestDemoCollection\XunFeiTTSDemo\XunFeiTTSDemo\XunFeiTTSDemo\obj\Debug\MainWindow.g.cs
+F:\Github-Myself\WpfTestDemoCollection\XunFeiTTSDemo\XunFeiTTSDemo\XunFeiTTSDemo\obj\Debug\App.g.cs
+F:\Github-Myself\WpfTestDemoCollection\XunFeiTTSDemo\XunFeiTTSDemo\XunFeiTTSDemo\obj\Debug\XunFeiTTSDemo_MarkupCompile.cache
+F:\Github-Myself\WpfTestDemoCollection\XunFeiTTSDemo\XunFeiTTSDemo\XunFeiTTSDemo\obj\Debug\XunFeiTTSDemo_MarkupCompile.lref
+F:\Github-Myself\WpfTestDemoCollection\XunFeiTTSDemo\XunFeiTTSDemo\XunFeiTTSDemo\obj\Debug\MainWindow.baml
+F:\Github-Myself\WpfTestDemoCollection\XunFeiTTSDemo\XunFeiTTSDemo\XunFeiTTSDemo\obj\Debug\XunFeiTTSDemo.g.resources
+F:\Github-Myself\WpfTestDemoCollection\XunFeiTTSDemo\XunFeiTTSDemo\XunFeiTTSDemo\obj\Debug\XunFeiTTSDemo.Properties.Resources.resources
+F:\Github-Myself\WpfTestDemoCollection\XunFeiTTSDemo\XunFeiTTSDemo\XunFeiTTSDemo\obj\Debug\XunFeiTTSDemo.csproj.GenerateResource.cache
+F:\Github-Myself\WpfTestDemoCollection\XunFeiTTSDemo\XunFeiTTSDemo\XunFeiTTSDemo\obj\Debug\XunFeiTTSDemo.csproj.CoreCompileInputs.cache
+F:\Github-Myself\WpfTestDemoCollection\XunFeiTTSDemo\XunFeiTTSDemo\XunFeiTTSDemo\obj\Debug\XunFeiTTSDemo.csproj.CopyComplete
+F:\Github-Myself\WpfTestDemoCollection\XunFeiTTSDemo\XunFeiTTSDemo\XunFeiTTSDemo\obj\Debug\XunFeiTTSDemo.exe
+F:\Github-Myself\WpfTestDemoCollection\XunFeiTTSDemo\XunFeiTTSDemo\XunFeiTTSDemo\obj\Debug\XunFeiTTSDemo.pdb
