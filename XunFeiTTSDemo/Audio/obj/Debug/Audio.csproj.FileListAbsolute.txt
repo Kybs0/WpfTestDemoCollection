@@ -1,8 +1,0 @@
-D:\c#代码。。。。\语音合成\Audio\obj\Debug\Audio.csprojResolveAssemblyReference.cache
-D:\c#代码。。。。\语音合成\Audio\bin\Debug\Audio.exe.config
-D:\c#代码。。。。\语音合成\Audio\bin\Debug\Audio.exe
-D:\c#代码。。。。\语音合成\Audio\bin\Debug\Audio.pdb
-D:\c#代码。。。。\语音合成\Audio\obj\Debug\Audio.exe
-D:\c#代码。。。。\语音合成\Audio\obj\Debug\Audio.pdb
-C:\Users\10167\Desktop\è¯­é³åæ\语音合成\Audio\obj\Debug\Audio.exe
-C:\Users\10167\Desktop\è¯­é³åæ\语音合成\Audio\obj\Debug\Audio.pdb
