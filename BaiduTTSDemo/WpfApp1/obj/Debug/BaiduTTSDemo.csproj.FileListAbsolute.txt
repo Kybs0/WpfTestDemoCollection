@@ -1,0 +1,16 @@
+F:\Github-Myself\WpfTestDemoCollection\BaiduTTSDemo\WpfApp1\bin\Debug\WpfApp1.exe.config
+F:\Github-Myself\WpfTestDemoCollection\BaiduTTSDemo\WpfApp1\bin\Debug\WpfApp1.exe
+F:\Github-Myself\WpfTestDemoCollection\BaiduTTSDemo\WpfApp1\bin\Debug\WpfApp1.pdb
+F:\Github-Myself\WpfTestDemoCollection\BaiduTTSDemo\WpfApp1\obj\Debug\BaiduTTSDemo.csprojAssemblyReference.cache
+F:\Github-Myself\WpfTestDemoCollection\BaiduTTSDemo\WpfApp1\obj\Debug\MainWindow.g.cs
+F:\Github-Myself\WpfTestDemoCollection\BaiduTTSDemo\WpfApp1\obj\Debug\App.g.cs
+F:\Github-Myself\WpfTestDemoCollection\BaiduTTSDemo\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+F:\Github-Myself\WpfTestDemoCollection\BaiduTTSDemo\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+F:\Github-Myself\WpfTestDemoCollection\BaiduTTSDemo\WpfApp1\obj\Debug\MainWindow.baml
+F:\Github-Myself\WpfTestDemoCollection\BaiduTTSDemo\WpfApp1\obj\Debug\WpfApp1.g.resources
+F:\Github-Myself\WpfTestDemoCollection\BaiduTTSDemo\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+F:\Github-Myself\WpfTestDemoCollection\BaiduTTSDemo\WpfApp1\obj\Debug\BaiduTTSDemo.csproj.GenerateResource.cache
+F:\Github-Myself\WpfTestDemoCollection\BaiduTTSDemo\WpfApp1\obj\Debug\BaiduTTSDemo.csproj.CoreCompileInputs.cache
+F:\Github-Myself\WpfTestDemoCollection\BaiduTTSDemo\WpfApp1\obj\Debug\BaiduTTSDemo.csproj.Fody.CopyLocal.cache
+F:\Github-Myself\WpfTestDemoCollection\BaiduTTSDemo\WpfApp1\obj\Debug\WpfApp1.exe
+F:\Github-Myself\WpfTestDemoCollection\BaiduTTSDemo\WpfApp1\obj\Debug\WpfApp1.pdb
