@@ -1,0 +1,15 @@
+F:\Github-Myself\WpfTestDemoCollection\MixedInputSearchDemo\MixedInputSearchDemo\bin\Debug\MixedInputSearchDemo.exe.config
+F:\Github-Myself\WpfTestDemoCollection\MixedInputSearchDemo\MixedInputSearchDemo\bin\Debug\MixedInputSearchDemo.exe
+F:\Github-Myself\WpfTestDemoCollection\MixedInputSearchDemo\MixedInputSearchDemo\bin\Debug\MixedInputSearchDemo.pdb
+F:\Github-Myself\WpfTestDemoCollection\MixedInputSearchDemo\MixedInputSearchDemo\obj\Debug\MixedInputSearchDemo.csprojAssemblyReference.cache
+F:\Github-Myself\WpfTestDemoCollection\MixedInputSearchDemo\MixedInputSearchDemo\obj\Debug\MainWindow.g.cs
+F:\Github-Myself\WpfTestDemoCollection\MixedInputSearchDemo\MixedInputSearchDemo\obj\Debug\App.g.cs
+F:\Github-Myself\WpfTestDemoCollection\MixedInputSearchDemo\MixedInputSearchDemo\obj\Debug\MixedInputSearchDemo_MarkupCompile.cache
+F:\Github-Myself\WpfTestDemoCollection\MixedInputSearchDemo\MixedInputSearchDemo\obj\Debug\MixedInputSearchDemo_MarkupCompile.lref
+F:\Github-Myself\WpfTestDemoCollection\MixedInputSearchDemo\MixedInputSearchDemo\obj\Debug\MainWindow.baml
+F:\Github-Myself\WpfTestDemoCollection\MixedInputSearchDemo\MixedInputSearchDemo\obj\Debug\MixedInputSearchDemo.g.resources
+F:\Github-Myself\WpfTestDemoCollection\MixedInputSearchDemo\MixedInputSearchDemo\obj\Debug\MixedInputSearchDemo.Properties.Resources.resources
+F:\Github-Myself\WpfTestDemoCollection\MixedInputSearchDemo\MixedInputSearchDemo\obj\Debug\MixedInputSearchDemo.csproj.GenerateResource.cache
+F:\Github-Myself\WpfTestDemoCollection\MixedInputSearchDemo\MixedInputSearchDemo\obj\Debug\MixedInputSearchDemo.csproj.CoreCompileInputs.cache
+F:\Github-Myself\WpfTestDemoCollection\MixedInputSearchDemo\MixedInputSearchDemo\obj\Debug\MixedInputSearchDemo.exe
+F:\Github-Myself\WpfTestDemoCollection\MixedInputSearchDemo\MixedInputSearchDemo\obj\Debug\MixedInputSearchDemo.pdb

@@ -1,0 +1,28 @@
+﻿<Window x:Class="MixedInputSearchDemo.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MixedInputSearchDemo"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <StackPanel>
+            <TextBox x:Name="InpuTextBox" Height="100" Text="中文字符30Margin中文字符40HorizontalAlignment" Margin="30 30 30 0" Padding="10"/>
+            <StackPanel Orientation="Horizontal" Height="30" Margin="0 30 0 0" HorizontalAlignment="Center">
+                <TextBlock Text="正则表达式：" VerticalAlignment="Center"></TextBlock>
+                <TextBox x:Name="RegexTextBox" Width="200" VerticalContentAlignment="Center"/>
+            </StackPanel>
+            
+            <StackPanel Orientation="Horizontal" Margin="0 30 0 0" HorizontalAlignment="Center">
+                <Button x:Name="CheckChineseButton" Content="提取中文" Height="30" Width="80" Margin="10 0 0 0" Click="CheckChineseButton_OnClick"/>
+                <Button x:Name="CheckEnglishButton" Content="提取英文" Height="30" Width="80" Margin="10 0 0 0" Click="CheckEnglishButton_OnClick"/>
+                <Button x:Name="CheckNumbersButton" Content="提取英文与数字" Height="30" MinWidth="80" Margin="10 0 0 0" Click="CheckNumbersButton_OnClick"/>
+            </StackPanel>
+            <Button x:Name="CheckAllCharsButton" Content="提取所有英文字符" Height="30" MinWidth="80" HorizontalAlignment="Center" Margin="0 10 0 0" Click="CheckAllCharsButton_OnClick"/>
+            <GroupBox Header="测试结果" Height="120" Margin="30 0 30 0">
+                <TextBlock x:Name="ResultTextBlock" TextWrapping="Wrap"/>
+            </GroupBox>
+        </StackPanel>
+    </Grid>
+</Window>
