@@ -26,7 +26,6 @@ namespace MultiTasksOnlyKeepLastDemo
     /// </summary>
     public partial class MainWindow : Window
     {
-        private AsyncTaskQueue _asyncTaskQueue;
         public MainWindow()
         {
             InitializeComponent();
