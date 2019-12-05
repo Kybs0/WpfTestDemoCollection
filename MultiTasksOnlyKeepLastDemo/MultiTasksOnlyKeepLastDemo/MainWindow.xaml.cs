@@ -29,36 +29,31 @@ namespace MultiTasksOnlyKeepLastDemo
         public MainWindow()
         {
             InitializeComponent();
-        }
-
-        private async void ButtonBase_OnClick(object sender, RoutedEventArgs e)
-        {
-            using (var asyncTaskQueue = new AsyncTaskQueue
+            _asyncTaskQueue = new AsyncTaskQueue
             {
                 AutoCancelPreviousTask = true,
                 UseSingleThread = true
-            })
+            };
+        }
+        private AsyncTaskQueue _asyncTaskQueue;
+        private void ButtonBase_OnClick(object sender, RoutedEventArgs e)
+        {
+            // 快速启动10个任务
+            for (var i = 1; i < 10; i++)
             {
-                // 快速启动20个任务
-                for (var i = 1; i < 20; i++)
-                {
-                    await Task.Delay(TimeSpan.FromMilliseconds(1));
-                    Test(asyncTaskQueue, i);
-                }
+                Test(_asyncTaskQueue, i);
             }
         }
-
         public static async void Test(AsyncTaskQueue taskQueue, int num)
         {
             var result = await taskQueue.ExecuteAsync(async () =>
             {
-                // 长时间耗时任务
-                await Task.Delay(TimeSpan.FromSeconds(5));
                 Debug.WriteLine("输入:" + num);
+            // 长时间耗时任务
+            await Task.Delay(TimeSpan.FromSeconds(5));
                 return num * 100;
             });
             Debug.WriteLine($"{num}输出的:" + result);
         }
-
     }
 }
