@@ -29,6 +29,20 @@ namespace YouDaoTTSDemo
             MyTextBox.Text = "You have to take capital appreciation of the property into account.\r\n" +
                              "The direction of the prevailing winds should be taken into account.\r\n" +
                              "The Villad'Este was a short distance northeast of Rome, nestled high in the Sabine Hills.\r\n";
+            Loaded += MainWindow_Loaded;
+        }
+        private void MainWindow_Loaded(object sender, RoutedEventArgs e)
+        {
+            var voices = new List<VoiceItem>(){
+                new VoiceItem(0, "美式女声"),
+                new VoiceItem(1, "美式男生"),
+                new VoiceItem(2, "英式女声"),
+                new VoiceItem(3, "英式男生"),
+                new VoiceItem(4, "通用英式女声"),
+                new VoiceItem(5, "词典英式发音"),
+                new VoiceItem(6, "词典美式发音"),
+            };
+            VoiceComboBox.ItemsSource = voices;
         }
 
         private void ExportButton_OnClick(object sender, RoutedEventArgs e)
@@ -47,6 +61,8 @@ namespace YouDaoTTSDemo
             dic.Add("appKey", appKey);
             dic.Add("salt", salt);
             dic.Add("sign", sign);
+            dic.Add("voice", VoiceComboBox.SelectedValue.ToString());
+            dic.Add("speed", RateSlide.Value.ToString());
             Post(url, dic);
         }
 
@@ -112,7 +128,7 @@ namespace YouDaoTTSDemo
             {
                 File.Delete(filePath);
             }
-            
+
             bool Value = true;
             byte[] buffer = new byte[1024];
 
@@ -145,4 +161,18 @@ namespace YouDaoTTSDemo
         }
     }
 
+    internal class VoiceItem
+    {
+        private readonly int _key;
+        private readonly string _name;
+
+        public VoiceItem(int key, string name)
+        {
+            _key = key;
+            _name = name;
+        }
+
+        public int Key => _key;
+        public string Name => _name;
+    }
 }

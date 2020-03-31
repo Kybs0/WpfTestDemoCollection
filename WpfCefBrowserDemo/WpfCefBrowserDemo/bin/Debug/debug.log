@@ -618,3 +618,9 @@ a=ssrc:1621742022 mslabel:-
 a=ssrc:1621742022 label:
 
 [1015/204040.686:ERROR:rtc_peer_connection_handler.cc(1215)] Failed to parse SessionDescription. a=msid:  Missing track ID in msid attribute.
+[0309/160425.824:INFO:crash_reporting.cc(219)] Crash reporting enabled for process: browser
+[0309/160426.515:INFO:crash_reporting.cc(219)] Crash reporting enabled for process: utility
+[0309/160426.726:INFO:crash_reporting.cc(219)] Crash reporting enabled for process: gpu-process
+[0309/160426.733:INFO:crash_reporting.cc(219)] Crash reporting enabled for process: renderer
+[0309/160428.499:INFO:CONSOLE(1)] "use unload event:pagehide", source: https://friday.cvte.com/agent/sdk/js/v2/fa.js?_appId=3495aa66a745c0051b49e7d3e92c573d (1)
+[0309/160430.336:ERROR:browser_process_sub_thread.cc(221)] Waited 26 ms for network service

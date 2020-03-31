@@ -10,7 +10,14 @@
         <StackPanel VerticalAlignment="Center">
             <TextBox x:Name="MyTextBox" Height="200"></TextBox>
             <StackPanel Orientation="Horizontal" Margin="0 30" HorizontalAlignment="Center">
-                
+                <GroupBox Header="朗读设置" Padding="10">
+                    <StackPanel>
+                        <ComboBox x:Name="VoiceComboBox" Background="Transparent" Width="160" Height="30"
+                                  VerticalContentAlignment="Center" SelectedIndex="0" DisplayMemberPath="Name" SelectedValuePath="Key"
+                                  ></ComboBox>
+                        <Slider x:Name="RateSlide" Maximum="2" Minimum="0.1" Margin="0 10 0 0" ToolTip="语速" Value="1"></Slider>
+                    </StackPanel>
+                </GroupBox>
                 <Button x:Name="ExportButton" Click="ExportButton_OnClick" Content="导出音频"
                         Margin="30 0 0 0" Height="30" Width="100" VerticalAlignment="Center" HorizontalAlignment="Center"></Button>
             </StackPanel>

@@ -13,3 +13,17 @@ F:\Github-Myself\WpfTestDemoCollection\YouDaoTTSDemo\YouDaoTTSDemo\obj\Debug\You
 F:\Github-Myself\WpfTestDemoCollection\YouDaoTTSDemo\YouDaoTTSDemo\obj\Debug\YouDaoTTSDemo.csproj.CoreCompileInputs.cache
 F:\Github-Myself\WpfTestDemoCollection\YouDaoTTSDemo\YouDaoTTSDemo\obj\Debug\YouDaoTTSDemo.exe
 F:\Github-Myself\WpfTestDemoCollection\YouDaoTTSDemo\YouDaoTTSDemo\obj\Debug\YouDaoTTSDemo.pdb
+E:\Github-Myself\WpfTestDemoCollection\YouDaoTTSDemo\YouDaoTTSDemo\bin\Debug\YouDaoTTSDemo.exe.config
+E:\Github-Myself\WpfTestDemoCollection\YouDaoTTSDemo\YouDaoTTSDemo\bin\Debug\YouDaoTTSDemo.exe
+E:\Github-Myself\WpfTestDemoCollection\YouDaoTTSDemo\YouDaoTTSDemo\bin\Debug\YouDaoTTSDemo.pdb
+E:\Github-Myself\WpfTestDemoCollection\YouDaoTTSDemo\YouDaoTTSDemo\obj\Debug\MainWindow.g.cs
+E:\Github-Myself\WpfTestDemoCollection\YouDaoTTSDemo\YouDaoTTSDemo\obj\Debug\App.g.cs
+E:\Github-Myself\WpfTestDemoCollection\YouDaoTTSDemo\YouDaoTTSDemo\obj\Debug\YouDaoTTSDemo_MarkupCompile.cache
+E:\Github-Myself\WpfTestDemoCollection\YouDaoTTSDemo\YouDaoTTSDemo\obj\Debug\YouDaoTTSDemo_MarkupCompile.lref
+E:\Github-Myself\WpfTestDemoCollection\YouDaoTTSDemo\YouDaoTTSDemo\obj\Debug\MainWindow.baml
+E:\Github-Myself\WpfTestDemoCollection\YouDaoTTSDemo\YouDaoTTSDemo\obj\Debug\YouDaoTTSDemo.g.resources
+E:\Github-Myself\WpfTestDemoCollection\YouDaoTTSDemo\YouDaoTTSDemo\obj\Debug\YouDaoTTSDemo.Properties.Resources.resources
+E:\Github-Myself\WpfTestDemoCollection\YouDaoTTSDemo\YouDaoTTSDemo\obj\Debug\YouDaoTTSDemo.csproj.GenerateResource.cache
+E:\Github-Myself\WpfTestDemoCollection\YouDaoTTSDemo\YouDaoTTSDemo\obj\Debug\YouDaoTTSDemo.csproj.CoreCompileInputs.cache
+E:\Github-Myself\WpfTestDemoCollection\YouDaoTTSDemo\YouDaoTTSDemo\obj\Debug\YouDaoTTSDemo.exe
+E:\Github-Myself\WpfTestDemoCollection\YouDaoTTSDemo\YouDaoTTSDemo\obj\Debug\YouDaoTTSDemo.pdb
